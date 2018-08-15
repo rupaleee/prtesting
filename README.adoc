@@ -82,3 +82,4 @@ When `READY` changes to `0/1`, if you re-execute a `curl` command to `api/greeti
 You can learn more about this booster and rest of the Eclipse Vert.x runtime in the link:http://launcher.fabric8.io/docs/vertx-runtime.html[Eclipse Vert.x Runtime Guide].
 
 NOTE: Run the set of integration tests included with this booster using `mvn clean verify -Popenshift,openshift-it`.
+PR Testing
